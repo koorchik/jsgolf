@@ -1,0 +1,2 @@
+# jsgolf
+JavaScript golf tasks
